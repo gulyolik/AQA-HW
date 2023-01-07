@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/cg0pvon2qjit6bxd?svg=true)](https://ci.appveyor.com/project/gulyolik/aqa-hw)
